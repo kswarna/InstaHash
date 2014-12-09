@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.22013.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApplication1", "WpfApplication1\WpfApplication1.csproj", "{4DC7D1CD-BFB6-4A0E-ACD1-DCCFD92A55DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Instagram", "Instagram\Instagram.csproj", "{14583A6C-A1E5-418F-BB50-B25695D656A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DC7D1CD-BFB6-4A0E-ACD1-DCCFD92A55DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DC7D1CD-BFB6-4A0E-ACD1-DCCFD92A55DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DC7D1CD-BFB6-4A0E-ACD1-DCCFD92A55DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DC7D1CD-BFB6-4A0E-ACD1-DCCFD92A55DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14583A6C-A1E5-418F-BB50-B25695D656A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14583A6C-A1E5-418F-BB50-B25695D656A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14583A6C-A1E5-418F-BB50-B25695D656A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14583A6C-A1E5-418F-BB50-B25695D656A0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://karthikswarna.visualstudio.com/defaultcollection
+		SccProjectUniqueName0 = Instagram\\Instagram.csproj
+		SccProjectName0 = Instagram
+		SccLocalPath0 = Instagram
+		SccLocalPath1 = .
+		SccProjectUniqueName2 = WpfApplication1\\WpfApplication1.csproj
+		SccProjectName2 = WpfApplication1
+		SccLocalPath2 = WpfApplication1
+	EndGlobalSection
+EndGlobal
